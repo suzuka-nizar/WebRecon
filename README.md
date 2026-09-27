@@ -15,7 +15,6 @@ Tool sederhana berbasis Python untuk keperluan **reconnaissance** dan **pengujia
   - [Linux](#linux)
   - [macOS](#macos)
   - [Android (Termux)](#android-termux)
-- [Cara Pakai](#cara-pakai)
 - [Struktur File](#struktur-file)
 
 ---
