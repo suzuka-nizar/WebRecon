@@ -126,7 +126,3 @@ Menguji apakah suatu endpoint yang menerima parameter ID (misalnya `?id=` atau `
 ```
 
 ---
-
-## Kontribusi
-
-## Lisensi
