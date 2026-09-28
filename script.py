@@ -41,7 +41,8 @@ def cek_satu_id(url_target, user_id, keywords):
   
   except requests.exceptions.RequestException as e:
     print(f"\033[31m[!] error while connecting to {target}: {e}\033[0m")
-  
+
+# atur maxworkers sesuai kebutuhan
 def tes_idor(url_target, id_start, id_end, keywords, max_workers=5):
   print()
   print(f"\033[34m[#] start IDOR parameter scan:  {id_start} - {id_end}, {keywords}...")
