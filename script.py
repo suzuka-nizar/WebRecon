@@ -71,6 +71,8 @@ def main():
     print()
   
     if not opsi:
+      print("   \033[36m——Thank You——\033[0m")
+      print()
       sys.exit()
     
     if opsi == "1":
