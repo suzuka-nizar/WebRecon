@@ -50,7 +50,7 @@ Menguji apakah suatu endpoint yang menerima parameter ID (misalnya `?id=` atau `
 1. Install Python dari [python.org](https://www.python.org/downloads/) (centang **"Add Python to PATH"** saat instalasi).
 2. Clone atau download repo ini:
    ```bash
-   git clone https://github.com/USERNAME/WebRecon.git
+   git clone https://github.com/suzuka-nizar/WebRecon.git
    cd WebRecon
    ```
 3. Install dependency:
